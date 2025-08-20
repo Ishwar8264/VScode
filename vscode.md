@@ -59,3 +59,6 @@
 "scminput": false
 }
 }
+
+git config --global user.email "ishwar.sahani119@gmail.com"
+git config --global user.name "Ishwar Sahani"
